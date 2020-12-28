@@ -1,2 +1,2 @@
-cd C:\Protractor\AngularAppsFramework_POC
+cd C:\Protractor\Protractor_UI_POC
 call  gulp HomePageValidations
